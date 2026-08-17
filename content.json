@@ -53,38 +53,70 @@
     "founder": {
       "name": "Александр ",
       "role": "Основатель SMETAX",
-      "quote": "Мы создаём SMETAX вместе со строительным рынком: сначала решаем ежедневные задачи, затем масштабируем продукт."
+      "quote": "Мы создаём SMETAX вместе со строительным рынком: сначала решаем ежедневные задачи, затем масштабируем продукт.",
+      "image": ""
     },
     "slots": [
-      "Здесь появится отзыв бета-участника",
-      "Здесь появится отзыв строительной команды",
-      "Здесь появится отзыв руководителя"
+      {"text": "Здесь появится отзыв бета-участника", "avatar": ""},
+      {"text": "Здесь появится отзыв строительной команды", "avatar": ""},
+      {"text": "Здесь появится отзыв руководителя", "avatar": ""}
     ]
   },
   "gallery": [
     {
       "src": "/img/construction-placeholder.svg",
-      "label": "Строительная площадка"
+      "label": "Строительная площадка",
+      "block": "b18"
     },
     {
       "src": "/img/construction-placeholder.svg",
-      "label": "Работа на объекте"
+      "label": "Работа на объекте",
+      "block": "b18"
     },
     {
       "src": "/img/construction-placeholder.svg",
-      "label": "Строительство дома"
+      "label": "Строительство дома",
+      "block": "b18"
     },
     {
       "src": "/img/banya-placeholder.svg",
-      "label": "Демо-кейс: баня"
+      "label": "Демо-кейс: баня",
+      "block": "b18"
     },
     {
       "src": "/img/team-placeholder.svg",
-      "label": "Команда на объекте"
+      "label": "Команда на объекте",
+      "block": "b18"
     },
     {
       "src": "/img/office-placeholder.svg",
-      "label": "Работа со сметой"
+      "label": "Работа со сметой",
+      "block": "b18"
+    },
+    {
+      "src": "/img/team-placeholder.svg",
+      "label": "Мастер и бригада",
+      "block": "b06"
+    },
+    {
+      "src": "/img/office-placeholder.svg",
+      "label": "Небольшая компания",
+      "block": "b06"
+    },
+    {
+      "src": "/img/team-placeholder.svg",
+      "label": "Растущая компания",
+      "block": "b06"
+    },
+    {
+      "src": "/img/construction-placeholder.svg",
+      "label": "Строительный объект",
+      "block": "b14"
+    },
+    {
+      "src": "/img/banya-placeholder.svg",
+      "label": "Баня в Блогом 284",
+      "block": "cases"
     }
   ],
   "calculator": {
@@ -103,5 +135,11 @@
     "Telegram",
     "Лемана ПРО",
     "GitHub"
-  ]
+  ],
+  "goals": {
+    "title": "Цели, к которым идём вместе",
+    "regions": "17",
+    "companies": "100",
+    "estimates": "5 000"
+  }
 }
