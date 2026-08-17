@@ -88,11 +88,6 @@
       "block": "b18"
     },
     {
-      "src": "/img/photo-2.jpg",
-      "label": "Работа строительной команды",
-      "block": "b18"
-    },
-    {
       "src": "/img/photo-3.jpg",
       "label": "Строительство дома",
       "block": "b18"
@@ -105,21 +100,6 @@
     {
       "src": "/img/photo-5.jpg",
       "label": "Инженеры на объекте",
-      "block": "b18"
-    },
-    {
-      "src": "/img/photo-6.jpg",
-      "label": "Работы на площадке",
-      "block": "b18"
-    },
-    {
-      "src": "/shots/dashboard.png",
-      "label": "Дашборд SMETAX",
-      "block": "b18"
-    },
-    {
-      "src": "/shots/object.png",
-      "label": "Карточка объекта SMETAX",
       "block": "b18"
     }
   ],
