@@ -101,6 +101,11 @@
       "src": "/img/photo-5.jpg",
       "label": "Инженеры на объекте",
       "block": "b18"
+    },
+    {
+      "src": "/img/cms/044e98c74ea84869b847f95fb477bb23.jpg",
+      "label": "",
+      "block": "b18"
     }
   ],
   "calculator": {
